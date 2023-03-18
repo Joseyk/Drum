@@ -13,11 +13,11 @@ h1 {
 
 footer {
   color: #DBEDF3;
-  font-family: sans-serif;
+  font-family : sans-serif;
 }
 
 .w {
-  background-image:url(images/crash.png);
+  background-image :url(images/crash.png);
 }
 
 .a {
